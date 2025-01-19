@@ -14,7 +14,7 @@ int main() {
     int escolha;
     printf("Problema das 8 Rainhas\n");
     posicaoRainha(0);
-    printf("Número de total de soluções: %d\n", contagemSolucoes);
+    printf("Número total de soluções: %d\n", contagemSolucoes);
 
     return 0;
 }
