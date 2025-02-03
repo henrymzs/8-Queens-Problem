@@ -27,7 +27,7 @@ Número total de soluções: 92
 
 1. **Clone o repositório:**
    ```bash
-   https://github.com/henrymzs/Problemadas8Rainhas.git
+   https://github.com/henrymzs/8-Queens-Problem.git
 2. **Compile o Código em C:**
    ```bash
    gcc Main.c -o Main
